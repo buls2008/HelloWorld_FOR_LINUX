@@ -7,3 +7,4 @@ int main(int argc,char **argv)
 printf("Hello world\n");
 }
 ```
+多多练
